@@ -1,0 +1,15 @@
+{
+    "name": "muxx/name-case-lib",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andriy Chaika",
+            "email": "andriy@chaika.in.ua"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["Library/"]
+    }
+}
